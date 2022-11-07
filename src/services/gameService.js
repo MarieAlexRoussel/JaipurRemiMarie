@@ -1,6 +1,8 @@
 import * as db from "../database"
 import { shuffle } from "lodash"
 
+//test
+
 // Return a shuffled starting deck except 3 camels
 export function initDeck() {
   const deck = []
